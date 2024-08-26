@@ -1,0 +1,2 @@
+- quelle für photobleaching hinzufügen
+- add screenshots from the localize drop downs (2 screenshots zu localize fehlen noch)
